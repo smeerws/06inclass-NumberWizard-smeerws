@@ -1,13 +1,13 @@
 # 03inclass-NumberWizard-schiderf
 
 ### Project description: 
-Introduction/Project summary 
+The goal is to create a Number guessing game called Number Wizard, where the computer guesses your chosen number through simple maths
 
 ### Development platform: 
 MacOS, Unity 202015f1, Visual Studio Code
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+WebGL
 
 ### Visuals: 
 Screenshots (concept and experience), Video
@@ -16,10 +16,10 @@ Screenshots (concept and experience), Video
 Installation process, e.g. step by step instructions that I can run the project after cloning it
 
 ### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+Unity Template for Unity202015f1 (2D)
 
 ### Project state: 
-incl. progress in percent
+5% 
 
 ### Limitations: 
 
