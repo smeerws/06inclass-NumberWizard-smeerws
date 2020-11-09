@@ -1,10 +1,10 @@
-# Template2D-Unity202015f1
+# 03inclass-NumberWizard-schiderf
 
 ### Project description: 
 Introduction/Project summary 
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+MacOS, Unity 202015f1, Visual Studio Code
 
 ### Target platform: 
 WebGL, Mobile, VR Device incl. reference resolution 
@@ -25,4 +25,4 @@ incl. progress in percent
 
 ### Lessons Learned: 
 
-Copyright by you :)
+Copyright by Schider Felix
