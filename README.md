@@ -25,4 +25,4 @@ Unity Template for Unity202015f1 (2D)
 
 ### Lessons Learned: 
 
-Copyright by Schider Felix
+Copyright by smeerws
